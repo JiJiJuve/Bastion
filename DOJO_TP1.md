@@ -47,14 +47,14 @@ chacune des machines.
 6. Mettre en place les services essentiels sur le domaine Active Directory et 
 configurer la Workstation afin qu’elle puisse les utiliser efficacement. Ces 
 services comprennent : 
-● DNS sous Windows, utilisé par défaut dans le domaine AD, 
-● WinRM sous Windows, accessible uniquement aux administrateurs du 
+- DNS sous Windows, utilisé par défaut dans le domaine AD, 
+- WinRM sous Windows, accessible uniquement aux administrateurs du 
 domaine, 
-● Partages SMB sur Windows, avec un partage en lecture seule et un autre en 
+- Partages SMB sur Windows, avec un partage en lecture seule et un autre en 
 écriture accessible sans authentification, 
-● Serveur Web sur Linux, via l’application VulnerableLightApp qui inclut un 
+- Serveur Web sur Linux, via l’application VulnerableLightApp qui inclut un 
 serveur Kestrel accessible sur le réseau, 
-● SSH sur Linux, ouvert aux membres du groupe sudoers. 
+- SSH sur Linux, ouvert aux membres du groupe sudoers. 
 7. Enfin, exécuter le script automatisé nommé « badblood » pour finaliser la mise 
 en place.
 
