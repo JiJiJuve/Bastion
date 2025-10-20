@@ -49,15 +49,34 @@ Teleport offre :
 - Une expérience mixte **CLI/Web professionnelle et intuitive**.
 
 ✅ Ce choix s’aligne avec les **exigences du client** : sécurité, résilience et continuité de service.  
-🌐 **Page d’accueil Teleport accessible via navigateur** depuis la VM client.
 
----
+**Page d’accueil Teleport accessible via navigateur depuis la VM client.**
 
-## Captures et exemples de fonctionnement
 
-### 🔐 Connexion au bastion via CLI
+<img width="1350" height="816" alt="acces_interface_web_Teleport_depuis_Client" src="https://github.com/user-attachments/assets/7485bbc4-05ca-4ae8-acc6-27ed8de5a677" />
 
-Terminal client montrant la commande :
+<img width="1332" height="799" alt="Interface_Web_client" src="https://github.com/user-attachments/assets/9bac956b-31b3-4436-be0a-b42bb7328268" />
 
-```bash
-tsh login --proxy=teleport.jiji.local --user=admin
+
+
+**Terminal client montrant la commande tsh login et la connexion réussie au bastion Teleport.** 
+
+
+<img width="969" height="604" alt="connexion_tsh_terminal" src="https://github.com/user-attachments/assets/07e3be4e-d3b1-4485-822f-026c05b6a2b4" />
+
+
+**Enregistrement (ou ajout) d'une ressource dans mon bastion Teleport**
+
+
+
+<img width="966" height="599" alt="ajout_ressources1" src="https://github.com/user-attachments/assets/16998740-1b47-4243-8c0d-49012bff34ff" />
+
+
+<img width="1599" height="938" alt="ajout_ressources2" src="https://github.com/user-attachments/assets/ca2bdd60-2853-4ebe-8b42-56691b1bb347" />
+
+**Connexion  session SSH sur la ressource via le bastion depuis ma VM client, en mode zéro-trust, sans clé SSH manuelle**
+
+<img width="964" height="575" alt="connexion_ssh_ressource_depuis_bastion" src="https://github.com/user-attachments/assets/2683e685-4516-464e-8006-1702878683a6" />
+
+
+
