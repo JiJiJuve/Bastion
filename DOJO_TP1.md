@@ -205,7 +205,8 @@ en place.
 
 ## **Kanban**
 
-<img width="848" height="1132" alt="image" src="https://github.com/user-attachments/assets/da705ac9-9bcb-401e-afdb-eb9b702499e5" />
+<img width="564" height="684" alt="Bankan_DOJO" src="https://github.com/user-attachments/assets/50694581-25c9-42ed-99e4-eee3253ed473" />
+
 
 https://trello.com/b/WH7sXlZN/creation-de-lab
 
