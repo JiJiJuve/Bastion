@@ -1,6 +1,6 @@
 
-# ***PROJET DOJO : Création d’un Lab dans un 
-environnement à la fois vulnérable et réaliste ***
+# ***PROJET DOJO : Création d’un Lab dans un environnement à la fois vulnérable et réaliste***
+---
 
 ## **Sommaire**
 
@@ -25,7 +25,7 @@ basé sur des services couramment utilisés en entreprise. L’objectif est de s
 tout en étudiant la sécurisation, la gestion et l’exploitation des systèmes. 
 
 ## **Machines**
-- - - 
+
 - Windows 10  
 - Windows Server 2022 
 - Debian 11.6
