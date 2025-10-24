@@ -113,4 +113,14 @@ https://cloudsecurityalliance.org/blog/2024/02/01/detecting-and-mitigating-cve-2
 
 ## **Une vulnérabilité récente de votre choix issue du site du CERT-Fr**
 
----
+- CVE-2025-6018 et CVE-2025-6019 --> affectent respectivement le framework PAM (Pluggable Authentication Modules) et le démon udisks sous Linux. En exploitant ces failles conjointement, un attaquant local non privilégié peut contourner les mécanismes d'authentification et obtenir des privilèges d'administration (root), ce qui lui permet de prendre un contrôle total sur le système ciblé.
+
+<img width="468" height="105" alt="cvss_recent1" src="https://github.com/user-attachments/assets/5e4bbec1-10d3-42ff-913f-c04efb0c3d26" />
+
+<img width="489" height="108" alt="cvss_recent2" src="https://github.com/user-attachments/assets/1f42af5b-dfbb-440c-8b5b-1c913f0cdd2b" />
+
+<BVR><BVR>
+
+https://socprime.com/fr/blog/cve-2025-6018-and-cve-2025-6019-lpe-vulnerabilities/
+
+
