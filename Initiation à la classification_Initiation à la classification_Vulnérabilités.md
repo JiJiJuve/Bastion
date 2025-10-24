@@ -48,6 +48,7 @@
 
   <img width="1463" height="114" alt="exploit_Eblue" src="https://github.com/user-attachments/assets/87935e71-a891-4291-af9e-d0d135c69be4" />
 
+https://labex.io/tutorials/kali-exploit-ms17-010-eternalblue-on-a-windows-7-target-in-metasploit-594033
 
 ---
 
@@ -92,6 +93,7 @@ https://www.krackattacks.com/
   <img width="464" height="100" alt="cvss3_log4shell" src="https://github.com/user-attachments/assets/3ace4031-6e7a-4976-9ab8-d599f28be932" />
 
 
+
 https://www.trendmicro.com/fr_fr/what-is/apache-log4j-vulnerability.html
 
 ---
@@ -104,6 +106,8 @@ https://www.trendmicro.com/fr_fr/what-is/apache-log4j-vulnerability.html
 - CVSS :
 
   <img width="504" height="155" alt="cvss_" src="https://github.com/user-attachments/assets/b9faf847-a589-4a29-ae9d-20588a0d89fb" />
+
+https://cloudsecurityalliance.org/blog/2024/02/01/detecting-and-mitigating-cve-2023-4911-local-privilege-escalation-vulnerability#
 
 ---
 
