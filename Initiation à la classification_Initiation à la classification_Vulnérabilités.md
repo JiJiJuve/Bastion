@@ -31,3 +31,24 @@
 
 
 ## **Eternal Blue**
+
+##### EternalBlue est un exploit informatique développé par la National Security Agency (NSA), qui a été révélé par le groupe de hackers The Shadow Brokers le 14 avril 2017. Cet exploit utilise une faille de sécurité dans le protocole SMBv1, qui a été exploitée pour mener des cyberattaques à grande échelle, notamment lors de l'épidémie de ransomware WannaCry en 2017. Bien que Microsoft ait publié un correctif en mars 2017, de nombreux utilisateurs de Windows n'ont pas installé ce patch, ce qui a permis à EternalBlue de continuer à causer des problèmes de sécurité. Cette vulnérabilité a été utilisée pour infecter des systèmes d'exploitation Windows, y compris des versions obsolètes comme Windows XP et Windows 8, et a eu un impact international significatif. 
+
+- CVE : CVE‑2017‑0144 --> est une faille SMBv1 de Windows permettant à un pirate d’exécuter du code à distance et ne nécessitant pas d'authentification.
+---
+
+## **Krack**
+
+---
+
+## **log4shell**
+
+---
+
+## **Looney-tunables**
+
+---
+
+## **Une vulnérabilité récente de votre choix issue du site du CERT-Fr**
+
+---
