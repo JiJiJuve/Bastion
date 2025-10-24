@@ -111,5 +111,9 @@ Get-AuthenticodeSignature -FilePath "C:\Users\JiJi\Desktop\Simplon\Projet_Warmup
 
 <img width="1020" height="865" alt="signature _script" src="https://github.com/user-attachments/assets/6e44e6e8-6f65-4f53-b432-8af5a64f43e1" />
 
+---
+
+#### **Certificat -->**
 
 
+<img width="403" height="514" alt="Certificat_image" src="https://github.com/user-attachments/assets/3b6015f6-e9db-4c03-aa33-5f3b469eab6d" />
