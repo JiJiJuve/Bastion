@@ -8,11 +8,11 @@
 
 #### **Évaluer les vulnérabilités ci-dessous:**
 
-- Eternal Blue
-- Krack
-- log4shell
-- Looney-tunables
-- Une vulnérabilité récente de votre choix issue du site du CERT-Fr
+- [Eternal Blue](#eternal-blue)
+- [Krack](#krack)
+- [log4shell](#log4shell)
+- [Looney-tunables](#looney-tunables)
+- [Une vulnérabilité récente de votre choix issue du site du CERT-Fr](#une-vulnérabilité-récente-de-votre-choix-issue-du-site-du-cert-fr)
 
 
  #### **Pour chacune des vulnérabilités :**
@@ -28,3 +28,6 @@
 - Déterminer si un exploit est disponible publiquement, si oui en prendre connaissance et le citer en référence.
 
 - Trouver si un score EPSS existe pour cette vulnérabilité
+
+
+## **Eternal Blue**
